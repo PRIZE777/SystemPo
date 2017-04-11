@@ -1,0 +1,13 @@
+cat lol.txt | egrep -i while
+cat lol.txt | egrep '\('
+cat lol.txt | egrep ^i
+cat lol.txt | egrep '<='
+cat lol.txt | egrep ^k
+cat lol.txt | egrep '\)'
+cat lol.txt | egrep '\{'
+cat lol.txt | egrep -i sum
+cat lol.txt | egrep ^=
+cat lol.txt | egrep [\+]
+cat lol.txt | egrep [\++]
+cat lol.txt | egrep [\;]
+cat lol.txt | egrep [\}]
